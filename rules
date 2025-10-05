@@ -1,0 +1,24 @@
+ next.js 15.5 , context7 for latest docs
+ always use pnpm over npm
+ supabae best practices ( library or api, RLS ) 
+ decide on architecture and data structure first. ( use python flask for small apps with supabase )
+ research and plan using bmad method first
+ create stories
+ wireframing is must
+  TDD is must
+  hive-mind is good for speed. 
+  keep clear instructions to use mcp 
+  follow five step plan 
+  test after every change once five step plan is done
+  npm run lint after every change
+  npm run build after every change
+  user turbo in package.json for 'npm run dev'
+  whenever instructed to create mermaid format digagram, create a separate file containing only mermaind format code with extension .mermaid
+  Do not run command 'npm run dev' until explicitly requested by the User
+  NEVER create accessibility tests - focus on functional testing only.
+  Never alter the architecture once finalized, hence take time initially
+  use python flask + daisy ui for small applications. 
+  use playwright mcp in headless mode for faster performance
+  use shadcn namespaces OR MCP-UI + TanStack 
+  search for best practises and most efficient way to do something on internet , get approval before starting any new feature development. 
+  

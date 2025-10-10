@@ -1,4 +1,4 @@
- next.js 15.5 , context7 for latest docs
+ next.js 16 , context7 for latest docs
  always use pnpm over npm
  supabae best practices ( library or api, RLS ) 
  decide on architecture and data structure first. ( use python flask for small apps with supabase )
